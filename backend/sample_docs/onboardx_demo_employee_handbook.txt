@@ -1,0 +1,45 @@
+ONBOARDX | DEMO EMPLOYEE HANDBOOK
+Sample reference for product demonstrations — fictional guidance, not an approved company policy.
+Last reviewed: October 2026 | Owner: Demo People Operations
+
+HOW TO USE THIS SAMPLE
+This document shows how a complete employee reference can be organized in ONBOARDX. All names, contact routes, timelines, and rules below are illustrative. Replace them with the organization's approved guidance before using this content for real decisions.
+
+1. FIRST WEEK: EMPLOYEE CHECKLIST
+Before your first day, confirm your start time, work location, manager, and equipment delivery with your recruiting contact. On day one, meet your manager, verify that you can sign in to approved work systems, review this handbook, and learn where your team keeps current procedures. During the first week, complete assigned security and conduct learning, agree on three practical goals with your manager, and ask for help if access or equipment blocks your work. Mark a learning module complete only after reviewing its material and completing any attached activity.
+
+2. TEAM COMMUNICATION
+Use the team's approved collaboration channel for routine questions. Include the goal, what you tried, what happened, and the next help you need. Keep customer details, credentials, personal employee information, and confidential business data out of public channels. Record decisions in the team's approved project space so colleagues can find them. For urgent work blockers, contact your manager through the team's agreed urgent route; for a suspected security incident, follow section 4 immediately.
+
+3. WORKING WITH COMPANY INFORMATION
+Use only organization-approved devices, accounts, storage, and applications for work. Share files only with people who need them for their role. Check recipients and permissions before sending or publishing. Do not copy confidential work into personal email, public file-sharing services, or unapproved AI tools. Store the minimum information needed, follow the data labels supplied by your organization, and ask your manager or information-security contact when a label or sharing rule is unclear. Dispose of paper and electronic records using approved processes.
+
+4. ACCOUNT AND DEVICE SECURITY
+Use a unique password or passphrase and enable multi-factor authentication wherever provided. Never share passwords, one-time codes, recovery codes, API keys, or session tokens. Lock your screen when away and install required security updates promptly. If a device is lost, an account behaves unexpectedly, or a message looks suspicious, stop interacting with it, preserve relevant details, and promptly contact the designated security team using the verified incident-reporting channel. Do not investigate suspected malware on your own or forward suspicious attachments to colleagues.
+
+5. RESPECTFUL AND ACCESSIBLE WORKPLACE
+Treat colleagues, customers, and partners with respect. Make space for different perspectives, communicate professionally, and support reasonable accessibility needs. Harassment, discrimination, retaliation, threats, and deliberate exclusion are not acceptable in this demo handbook. Raise a concern with your manager or the organization's designated people-support contact. If your manager is involved or you do not feel safe raising the matter with them, use an alternate reporting route published by your organization. This sample is not a substitute for the actual employee-relations policy or local law.
+
+6. LEARNING PATH AND ASSESSMENTS
+Your learning path is intended to build role skills in manageable steps. Start with prerequisite modules, read the learning content, and use the assistant to request plain-language explanations or examples. Assessments are practice checks: read each prompt, choose the response that best fits the material, and use feedback to decide what to review next. A score is evidence of performance on that attempt, not a complete measure of a person's ability. Ask your manager to clarify role expectations or agree on additional coaching when needed.
+
+7. PRACTICAL TASKS: HOW TO COMPLETE THEM
+Read the task goal, instructions, required output format, and submission steps before starting. Break the work into small steps, use fictional or approved training data, and check that your output matches the requested structure. Submit through the task page and review which checks passed. If a check fails, compare your output with the task requirements and try again. Do not include real customer information, passwords, or other secrets in a practice submission. Ask the assistant to explain a requirement; it can clarify published instructions but cannot change the task's acceptance criteria.
+
+8. FEEDBACK AND DEVELOPMENT CONVERSATIONS
+Use regular manager check-ins to discuss progress, obstacles, feedback, workload, and development goals. Bring examples of work and questions about the role expectations. Agree on specific next steps, an owner, and a follow-up date. Skill levels and readiness indicators in ONBOARDX summarize recorded evidence against configured role requirements; they should be interpreted with context and discussed with the employee. Missing evidence means the system has limited recorded information; it does not automatically mean the employee lacks the skill.
+
+9. TIME AWAY, WELLBEING, AND SUPPORT
+Follow your organization's actual process for leave, schedule changes, expenses, workplace accommodations, and wellbeing support. Contact the appropriate people-support team for confidential questions. This demo handbook intentionally does not define entitlements, approval timelines, emergency numbers, or jurisdiction-specific requirements. Use only the current official policy published by your organization for those matters.
+
+10. GETTING HELP AND ESCALATING
+For a learning question, ask the ONBOARDX assistant and check its listed sources. For task clarification, contact your manager or the task owner. For account access or equipment issues, use the verified IT support channel. For privacy, security, or workplace concerns, use your organization's designated confidential reporting route. If guidance in this demo conflicts with an approved company document, the approved company document and your organization's established escalation process take precedence.
+
+QUICK REFERENCE
+First week: confirm access, meet your manager, review approved guidance, and agree on learning goals.
+Information handling: approved tools only; minimum necessary access; verify sharing permissions.
+Security incident: stop, preserve relevant details, and report promptly through the verified channel.
+Practical task: read requirements, use safe training data, submit the requested format, review feedback.
+Progress data: discuss it with context; recorded evidence is a snapshot, not a full judgment of capability.
+
+END OF DEMO SAMPLE

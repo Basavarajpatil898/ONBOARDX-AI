@@ -1,0 +1,24 @@
+# Local environment and credentials
+backend/.env
+.env
+**/.env
+**/.env.*
+!.env.example
+
+# Local database and Python cache
+backend/*.db
+backend/__pycache__/
+backend/.pytest_cache/
+**/__pycache__/
+**/.pytest_cache/
+
+# Frontend dependencies and generated output
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Local editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

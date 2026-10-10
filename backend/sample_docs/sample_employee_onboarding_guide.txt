@@ -1,0 +1,20 @@
+SAMPLE EMPLOYEE ONBOARDING GUIDE
+Demonstration content only — this is not an official company policy. Replace it with approved organizational guidance before relying on it.
+
+WELCOME AND FIRST WEEK
+New team members should confirm their manager, team channel, and first-week priorities during their first working day. Managers should explain the team's goals, introduce key collaborators, and identify the systems the employee needs for their role. Employees can use their learning path to review role-specific material and record questions for their manager.
+
+ACCOUNT AND DEVICE SECURITY
+Use the organization-approved account for work and enable multi-factor authentication wherever it is available. Never share passwords, recovery codes, API keys, or session tokens in chat, email, screenshots, or source control. Store work files only in approved company locations. Lock your screen when stepping away and report a lost device or suspected account compromise to the designated security contact promptly.
+
+WORKING WITH COMPANY INFORMATION
+Use customer and employee information only for approved work purposes. Share the minimum information needed with people who are authorized to receive it. Before uploading a document to an internal knowledge tool, confirm that it is approved for that system and remove unrelated personal data. Treat generated answers as a starting point and check the cited source before acting on them.
+
+COMMUNICATION AND SUPPORT
+Use your team's designated channel for routine questions and include enough context for someone to help: what you were trying to do, what happened, and any relevant error message. Do not include passwords or confidential customer data in a support request. For urgent access, security, or service-impacting issues, contact your manager and the appropriate support team using the organization's approved escalation route.
+
+LEARNING AND FEEDBACK
+Review assigned learning modules, complete assessments honestly, and use practical tasks to demonstrate your approach. Ask for clarification when an instruction or role expectation is unclear. Managers should give specific, timely feedback and agree on the next development step with the employee.
+
+SAMPLE CONTACT
+For this demonstration guide only, use it-help@example.com as a fictional support address. Replace this address with the organization's real, approved support contact before publishing operational guidance.

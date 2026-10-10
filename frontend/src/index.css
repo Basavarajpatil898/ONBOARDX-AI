@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap');
+@import 'tailwindcss';
+
+:root {
+  font-family: 'DM Sans', sans-serif;
+  color: #18243a;
+  background: #f2f5fb;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  --ink: #18243a;
+  --muted: #65738c;
+  --line: #dce4f0;
+  --paper: #fff;
+  --canvas: #f3f6fb;
+  --forest: #315fd4;
+  --forest-dark: #111d36;
+  --leaf: #e7efff;
+  --coral: #3288f5;
+  --coral-soft: #e8f1ff;
+  --sage: #b9cbe8;
+  --shadow: 0 12px 32px rgb(24 44 82 / 8%);
+  --shadow-raised: 0 20px 48px rgb(24 44 82 / 12%);
+  --accent: #4779ed;
+  --accent-bright: #70b2ff;
+  --surface-glass: rgb(255 255 255 / 78%);
+}
+
+* { box-sizing: border-box; }
+body {
+  min-width: 320px;
+  min-height: 100vh;
+  margin: 0;
+  background-color: var(--canvas);
+  background-image: radial-gradient(ellipse at 82% 7%, rgb(80 136 232 / 11%), transparent 32%),
+    radial-gradient(ellipse at 15% 82%, rgb(73 192 177 / 8%), transparent 31%),
+    linear-gradient(135deg, rgb(255 255 255 / 64%) 0%, transparent 45%);
+  background-attachment: fixed;
+}
+button, input, textarea, select { font: inherit; }
+button { color: inherit; }
+button:focus-visible, a:focus-visible, input:focus-visible, textarea:focus-visible, select:focus-visible { outline: 3px solid #3288f580; outline-offset: 3px; }
+::selection { color: #111d36; background: #d7e6ff; }
